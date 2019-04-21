@@ -1,2 +1,5 @@
 # ingenieria-software-lab1
-Laboratorio #1 del curso de Ingenieria de Software
+
+Jeonnathan Martin Fernando Rodriguez Gaytan 1290-15-12055
+
+en este laboratorio se implementaran los servicios RESTful
